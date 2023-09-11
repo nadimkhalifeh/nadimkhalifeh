@@ -14,7 +14,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code for fun, not just work
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages 😄:</h3>
 <p align="left">
     <a href="https://www.javascript.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
