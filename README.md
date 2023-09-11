@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
     </a>
     <a href="https://www.cplusplus.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
