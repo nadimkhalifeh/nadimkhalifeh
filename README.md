@@ -26,10 +26,10 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="Java" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="HTML" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="CSS" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="40" height="40"/>
     </a>
     <a href="https://www.php.net/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="PHP" width="40" height="40"/>
