@@ -7,14 +7,14 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/nadimkhalifeh/nadimkhalifeh/blob/main/header.png">
 
 
-- 🔭 I’m currently working on an android application
+- 🔭 I’m currently working on an android application with a team of 5 members
 - 🌱 I’m currently learning C Sharp
 - 💬 Ask me about my projects
 - 📫 Reach me at nadim_khalifeh@hotmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I code for fun, not just work
+  
 
-<h3 align="left">Languages 😄:</h3>
+<h3 align="left">Languages 💬:</h3>
 <p align="left">
     <a href="https://www.javascript.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
