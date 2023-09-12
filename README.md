@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on an android application with a team of 5 members
-- 🌱 I’m currently learning C Sharp
+- 🌱 I’m currently learning C#
 - 💬 Ask me about my projects
 - 📫 Reach me at nadim_khalifeh@hotmail.com
 - ⚡ Fun fact: I code for fun, not just work
