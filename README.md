@@ -20,7 +20,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
     </a>
     <a href="https://www.cplusplus.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
     </a>
     <a href="https://www.java.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
@@ -32,7 +32,7 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="40" height="40"/>
     </a>
     <a href="https://www.php.net/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg" alt="PHP" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
     </a>
 </p>
 <h3 align="left"> Tools 🔧: </h3>
