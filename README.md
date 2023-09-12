@@ -4,7 +4,7 @@
 **nadimkhalifeh/nadimkhalifeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" alt="Coding" width="400" src="https://github.com/nadimkhalifeh/nadimkhalifeh/blob/main/header.png">
+<img align="right" alt="Coding" width="400" src="https://github.com/nadimkhalifeh/nadimkhalifeh/blob/main/banner-2.png">
 
 
 - 🔭 I’m currently working on an android application with a team of 5 members
