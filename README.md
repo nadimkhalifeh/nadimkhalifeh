@@ -33,6 +33,9 @@
     <a href="https://www.php.net/" target="_blank">
         <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
     </a>
+      <a href="https://www.php.net/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/>
+    </a>
 </p>
 <h3 align="left"> Tools 🔧: </h3>
 <p align="left">
