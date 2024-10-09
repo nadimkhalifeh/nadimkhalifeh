@@ -7,7 +7,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/nadimkhalifeh/nadimkhalifeh/blob/main/banner-2.png"> -->
 
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently working on a Laser Based Communication System Project
 - 💬 Ask me about my projects
 - 📫 Reach me at nadim_khalifeh@hotmail.com
 - ⚡ Fun fact: I code for fun, not just work
