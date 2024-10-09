@@ -15,12 +15,16 @@
 
 <h3 align="left">Languages 💬:</h3>
 <p align="left">
+  <span style="display: inline-block;">
     <a href="https://www.javascript.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
     </a>
+  </span>
+  <span style="display: inline-block;">
     <a href="https://www.cplusplus.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
     </a>
+  </span>
     <a href="https://www.java.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
     </a>
