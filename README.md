@@ -81,9 +81,9 @@
 
 <h3 align="left">Achievements 🏆:</h3>
 
-- 🏅 Served as President of the Gina Cody School Entrepreneurship Society, leading a team of 17 members
+- 🚀 Served as President of the Gina Cody School Entrepreneurship Society, leading a team of 17 members
   
-- 🚀 Received an Honorable Mention for the innovative Sign-Lingual Project
+- 🏅 Received an Honorable Mention for the innovative Sign-Lingual Project
   
 - 🎓 Expected to graduate with a degree in Computer Engineering from Concordia University in 2025
 
