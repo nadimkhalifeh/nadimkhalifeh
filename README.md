@@ -4,7 +4,7 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/nadimkhalifeh/nadimkhalifeh/blob/main/banner-2.png"> -->
 
-<h1 align="center">Hi 👋, I'm Nadim Khalifeh</h1>
+<h1 align="center">Hi 👋, I'm Nadim Khalifeh😁</h1>
 <h3 align="center">A passionate Computer Engineering Student from Concordia University</h3>
 
 <p align="left"> 
