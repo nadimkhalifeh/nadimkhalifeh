@@ -11,7 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=nadimkhalifeh&label=Profile%20views&color=0e75b6&style=flat" alt="nadimkhalifeh" /> 
 </p>
 
-- 🌱 I’m currently working on a **Laser-Based Communication System Project with Self-Alignment inspired by Starlink Technology**
+- 🌱 I’m currently an Intern at Shopify
 - 💬 Ask me about my projects or anything tech-related
 - 📫 Reach me at **nadim_khalifeh@hotmail.com**
 - ⚡ Fun fact: I code for fun, not just work!
@@ -85,7 +85,7 @@
   
 - 🏅 Received an Honorable Mention for the innovative Sign-Lingual Project
   
-- 🎓 Expected to graduate with a degree in Computer Engineering from Concordia University in 2025
+- 🎓 Graduated with distinction in Computer Engineering from Concordia University in 2025
 
 <br> <br>
 
